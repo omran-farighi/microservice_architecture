@@ -6,6 +6,7 @@ This architectural paradigm enables “..development teams to independently buil
 an application” (Thomas and Gupta). This allows for continual delivery and it forces the technology to be more granulated with independently
 deployable microservices. Being able to update, maintain, and deploy independent microservices is what makes this type of system architecture 
 so agile and scalable. The figure below shows how increased granularity results in more agility and scalability.  
+
 ![granularity spectrum](https://github.com/omran-farighi/microservice_architecture/blob/main/Blog%201/MSA%20granularity%20spectrum.png)
 
 In their published research, Innovation Insight for Microservices, Anne Thomas and Aashish Gupta look at microservices more in depth and analyze
@@ -15,6 +16,7 @@ to adopt microservices by assessing…competency in terms of technologies, skill
 Because of its continual delivery, the data needs to be managed just as consistently. Essentially, if a company is not already building dynamic systems,
 it is not recommended they adopt microservices architecture. It requires a complete company change and the cost of investing in competent application 
 architects, DevOps practitioners, and a new data management system will cost a great amount of money and time.
+
 ![cultural impact](https://github.com/omran-farighi/microservice_architecture/blob/main/Blog%201/MSA%20prereq%20and%20cultural%20impact.png)
 
 As an alternative, Thomas and Gupta suggest using miniservices, low-code application platforms, or business process management suites and business
