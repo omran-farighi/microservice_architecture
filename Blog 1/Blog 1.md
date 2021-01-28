@@ -22,10 +22,8 @@ architects, DevOps practitioners, and a new data management system will cost a g
 As an alternative, Thomas and Gupta suggest using miniservices, low-code application platforms, or business process management suites and business
 rule engines. They allow for greater agility however it will not match the scalability advantages of microservice architecture. 
 
-While their research raises legitimate concerns, it would be foolish for organizations not to consider changing their architectural structure
-to something as agile and scalable as microservices. Most of the concerns are centered around the competency of the teams using microservices 
-but how is that any different from investing teams to learn monolithic architecture. Even if a company is well suited and prepared to change, 
-there still needs to be an investment of time and money into adopting this shift in architecture paradigm. There analysis seems very focused 
+Most of the concerns are centered around the competency of the teams using microservices. Even if a company is well suited and prepared to change, 
+there still needs to be an investment of time and money into adopting this shift in architecture paradigm. Their analysis seems very focused 
 on short term expenses. If it makes the organization more efficient and services scalable, it is very possible the long term savings outweigh 
 the short term costs. Thomas and Gupta rightfully bring up concerns of cost but do not provide data on how that cost is determined. They speak
 about how “Some organizations are abandoning their MSA investments due to high costs, project delays and unmet expectations” (Thomas and Gupta).
