@@ -20,3 +20,9 @@ a different OS is not required, it wouldn't make sense to run a virutal machine.
 uncessarily split between two of the same OS. Virtual machines also do not allow you to use any empty RAM space, further restricting yourself 
 of resources. It may also help to use a physical machine for security purposes. A virtual machine can be moved from machine to machine and 
 doesn't have any headspace where as a physical machine is difficult to move. 
+
+# Cloud and Microservices
+
+The logic and and concepts behind the containers go hand in hand with the architecture of microservices. Microserivces requires each service to act independently 
+of other other services so it is easily manageable. Containers very much in the same way are lightweight groups of processes that are independent of other groups
+of processes. Containers also containe their own packages, libraries, and supporting files similar to how microservices have their own database and software. 
