@@ -9,7 +9,7 @@
 
 ### Pros
 * Less wasteful: don't require large chunks of RAM and disk
-* Lightweight: don't require the entire OS
+* Lightweight: can use the host OS
 * Only runs processes related to software
 * Lack of dependency: each container has its own copy of packages, libraries, and other supporting files
 
