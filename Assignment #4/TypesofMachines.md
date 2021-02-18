@@ -13,7 +13,7 @@
 * Only runs processes related to software
 * Lack of dependency: each container has its own copy of packages, libraries, and other supporting files
 
-### Physical over Virtual
+# Physical over Virtual
 
 While virtual machines have clear advantages over physical machines, there are times when those advantages are not fully realized. If a 
 a different OS is not required, it wouldn't make sense to run a virutal machine. Just use the physical machine so that the resources aren't
