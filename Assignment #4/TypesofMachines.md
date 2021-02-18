@@ -15,7 +15,7 @@
 
 # Physical over Virtual
 
-While virtual machines have clear advantages over physical machines, there are times when those advantages are not fully realized. Virtual machines do not allow you to use any empty RAM space, restricting yourself of resources. If multiple virtual machines are running, the amount of disk space required by one OS will affect the performance of another OS. Unless the user needs to run more than one OS, it wouldn't make sense to partition their physical machine and restrict their resources.
+While virtual machines have clear advantages over physical machines, there are times when those advantages are not fully realized. Virtual machines do not allow you to use any empty RAM space, restricting yourself of resources. If multiple virtual machines are running, the amount of disk space required by one OS will affect the performance of another OS. Unless the user needs to run more than one OS, it wouldn't make sense to partition their physical machine and restrict their resources. A physical machine can also be more secure since there is much more hardware required and cannot be moved form machine to machine.
 
 # Cloud and Microservices
 
