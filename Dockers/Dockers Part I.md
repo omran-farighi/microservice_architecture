@@ -25,9 +25,12 @@ If I wanted to run the container again, the images tab would show all the images
 
 
 ## What is going on?
-When I am running a Dockers container, the Docker Engine allows Windows to natively run Linux based containers. Rather than partitioning
-the memory of my machine, Dockers uses lightweight containers that have their own private resources. Instead of a virtual machine, the containers
-are a small virutal environment which allows for more efficient software development.
+When I am running a Dockers container, the Docker Engine allows Windows to indirectly run Linux based containers. Rather than partitioning
+the memory of my machine, the Dockers Engine is able to run the containers. Windows requires a Linux subsystem to be isntalled but the resources 
+of the physical machine do not have be be shared. Instead, the Dockers engine runs the containers that contain their own resources allowing for 
+more efficient development without having to sacrifice the host resources. The image below shows how the containers are ran:
+
+![dockers](https://github.com/omran-farighi/microservice_architecture/blob/main/Dockers/1756%20(768%C3%97693).png)
 
 
 
