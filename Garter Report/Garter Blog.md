@@ -22,7 +22,7 @@ a managed container system, a service mesh, an API gateway, observability servic
   Support persistence, caching, and event management
   
   
-  [insert image here]
+  ![building blocks of MSA](https://github.com/omran-farighi/microservice_architecture/blob/main/Garter%20Report/Screenshot%20(6).png)
   
   The image above shows the flow of how the MSA runtime infrastructre is set up. In order for any service, app, or device to gain access
   to the managed containr system where the application component is being run, the API gateway must first authenticate access. The container
